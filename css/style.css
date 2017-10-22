@@ -1,0 +1,36 @@
+html,body {
+    height: 100%;
+}
+
+body {
+    background-image: url('../img/bg_1.jpg');
+    color: #fff;   
+    background-size: cover;
+} 
+
+.ui-index {
+    position: absolute;
+    width:  100%;
+    top: 50%;
+    margin-top: -142px;
+}
+
+.ui-index {
+    text-align: center;
+}
+
+.ui-index h1{
+    font-size: 50px;
+    text-shadow: 2px 8px 2px #000;
+}
+
+.ui-index .btn {
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    border: 1px solid #999;
+    border-radius: 6px;
+    width: 140px;
+    margin: 0 auto 14px auto;
+}
